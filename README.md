@@ -1,2 +1,2 @@
 # learn-python
-Projects from "Learning Python the Hard Way"
+Projects to help me learn how to code in Python.
